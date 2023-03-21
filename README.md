@@ -1,6 +1,6 @@
 - ### 👋 Hi, I’m **Namanpreet Kaur**
 - ###  :heart: I’m interested in learning new technologies.
-- ### 💻I’m currently learning Machine Learning.
+- ### 💻I’m currently learning Data Science.
 - ### 📫 Linkedin: https://www.linkedin.com/in/namanpreetkaur/ 
 - ### 📫 Twitter: https://twitter.com/_naman18
 
